@@ -1,4 +1,4 @@
-#Ejercicios de clase
+Ejercicios de clase
 1. Realizar un programa en el que se declare una variable de cada tipo de dato; Que se
 utilicen las comillas simples y dobles; que se concatenen varias cadenas; que se
 concatenen varias cadenas con sus valores correspondientes; que se realice la salida de
